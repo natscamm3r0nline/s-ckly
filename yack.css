@@ -1,0 +1,27 @@
+
+
+html {
+    min-width: 9in;
+    font-family: "Handjet", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 300px;
+    color: #ff3087;
+    background: rgb(52, 62, 45);  
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+
+#defaultCanvas0 {
+  
+    width: 1509px;
+    height: 748px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    }

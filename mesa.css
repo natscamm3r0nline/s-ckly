@@ -1,0 +1,83 @@
+
+
+  body {
+    font-family: "Handjet", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+     background-color: rgb(0, 56, 124) ;
+     color: rgb(182, 209, 255);
+     display: fixed;
+     width: 790px;
+     height: 650px;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     margin: 20px;
+     font-size: 40px;
+   }
+   
+ img {
+ display: left;
+    align-items: center;
+    justify-content: center;
+    flex-direction: center;
+    border: 9px;
+    z-index: -2;
+
+ }
+   p {
+     font-family: "Handjet", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+   text-align: center;
+     color:rgb(182, 209, 255) ;
+     text-align: italic;
+ 
+   }
+  h2 {
+     font-family: "Handjet", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+     color: rgb(182, 209, 255);
+     text-align: center;
+     height: 150px;
+     width: 1200px;
+ }
+ 
+ .div{
+     font-family: "Handjet", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;;
+       background-color: rgb(0, 56, 124) ;
+       color: rgb(182, 209, 255);
+       text-align: margin-left;
+ }
+ 
+ 
+   
+  .input{
+     width: 300px;
+     height: 400px;
+     border: 1px solid #6787bb;
+     padding: 10px;
+     overflow: scroll;
+   }
+   
+   .message-container {
+     height: 80%;
+     overflow: scroll;
+   }
+   
+   .message-input {
+     width: 80%;
+     padding: 5px;
+   }
+   
+   .send-button {
+     padding: 5px 10px;
+     margin-left: 10px;
+   }
